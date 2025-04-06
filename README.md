@@ -2,12 +2,14 @@
 
 Write a program (Python is *highly preferred*) that does the following:
 
-Read in:
+Read in (from the keyboard):
 - Platters
 - Surfaces per platter
 - Tracks per surface
 - Sectors per track
 - Bytes per sector
+
+Remember to prompt for inputs! Don't just do "platters=input()"
 
 Calculate the size of the drive in kb (kilobytes), mb (megabytes), gb (gigabytes), and tb (terrabytes).
 
